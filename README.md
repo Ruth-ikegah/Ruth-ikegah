@@ -2,7 +2,6 @@
 I'm Ruth Ikegah from Nigeria. I'm a Python developer, technical writer, open source enthusiast and a people's person.
 
 
-
 - 🌱 I’m currently learning Django 
 - 👯 I’m looking to collaborate on engaging more beginners in tech to contribute to open-source
 - 💬 Ask me about Open-Source, writing
@@ -12,3 +11,7 @@ I'm Ruth Ikegah from Nigeria. I'm a Python developer, technical writer, open sou
 
 You can check out my blog 
 - [My blog](https://cakebaby.dev/)
+
+### Hashnode Blog Posts
+<!-- HASHNODE:START -->
+<!-- HASHNODE:END -->
