@@ -1,16 +1,14 @@
 ### Hi there 👋
+I'm Ruth Ikegah from Nigeria. I'm a Python developer, technical writer, open source enthusiast and a people's person.
 
-<!--
-**Ruth-ikegah/Ruth-ikegah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌱 I’m currently learning Django 
+- 👯 I’m looking to collaborate on engaging more beginners in tech to contribute to open-source
+- 💬 Ask me about Open-Source, writing
+- 📫 How to reach me: [@ikegahruth](https://twitter.com/IkegahRuth)
+- 😄 Pronouns: she/her
+- ⚡ Fun fact: I love eating cakes especially red velvet cakes
+
+You can check out my blog 
+- [My blog](https://cakebaby.dev/)
