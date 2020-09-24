@@ -10,7 +10,7 @@ jobs:
     name: Update this repo's README with latest Hashnode blog posts
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v2
+      - uses: actions/checkout@v2-beta
       - uses: Ruth-ikegah/blog-post-workflow@master
         with:
           comment_tag_name: "HASHNODE"
