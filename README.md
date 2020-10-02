@@ -12,6 +12,3 @@ I'm Ruth Ikegah from Nigeria. I'm a Python developer, technical writer, open sou
 You can check out my blog 
 - [My blog](https://cakebaby.dev/)
 
-### My Hashnode Blog Feeds
-<!-- HASHNODE:START -->
-<!-- HASHNODE:END -->
