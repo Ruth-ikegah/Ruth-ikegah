@@ -1,5 +1,5 @@
 ### Hi there 👋
-I'm Ruth Ikegah from Nigeria. I'm a Python developer, Microbiologist, technical writer, open source enthusiast and a people's person.
+I'm Ruth Ikegah from Nigeria. I'm a Python developer, Microbiologist, Technical writer, Open Source enthusiast and a people person.
 
 
 - 🌱 I’m currently learning Django 
