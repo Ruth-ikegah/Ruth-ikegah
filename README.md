@@ -10,6 +10,6 @@ I’m Ruth Ikegah, a self-taught Python developer, technical writer, [Github sta
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: I love eating cakes especially red velvet cakes
 
-You can check out my blog 
+You can check out my blog here:
 - [My blog](https://cakebaby.dev/)
 
