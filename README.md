@@ -73,3 +73,7 @@
   <img src="https://komarev.com/ghpvc/?username=Ruth-ikegah&label=Profile%20views&color=0e75b6&style=flat" alt="isrealodejobi" />
 </p>
 
+### What I am listening to on Spotify now 🎧
+
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=043eqk3md4yew2hbq11fld610&cover_image=true&theme=default&show_offline=false)](https://github.com/kittinan/spotify-github-profile)
+
